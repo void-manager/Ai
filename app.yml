@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: your-app-name-here
+package: python/python@3.12
